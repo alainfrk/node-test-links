@@ -1,0 +1,18 @@
+{
+  "name": "test-links",
+  "version": "1.0.0",
+  "description": "Tool to test links of web pages",
+  "main": "test-links.js",
+  "scripts": {
+    "dev": "node test-links.js"
+  },
+  "keywords": [
+    "test",
+    "tool"
+  ],
+  "author": "Alain",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
